@@ -1,2 +1,3 @@
-# Teaching-data-visualisation
-Resources used for teaching.
+# Teaching : data-visualisation
+
+This notebook is part of a quick data management & visualisation class.
